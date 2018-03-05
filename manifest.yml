@@ -6,5 +6,5 @@ repos:
       url : git@github.com:SofaDefrost/SoftRobots.git
     
     - src: STLIB
-      url : git@github.com:STLIB/STLIB.git
+      url : git@github.com:SofaDefrost/STLIB.git
     
