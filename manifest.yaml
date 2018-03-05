@@ -1,0 +1,10 @@
+repos:
+    - src: sofa
+    url : git@github.com:SofaDefrost/sofa.git
+    
+    - src: SoftRobots
+    url : git@github.com:SofaDefrost/SoftRobots.git
+    
+    - src: STLIB
+    url : git@github.com:STLIB/STLIB.git
+    
